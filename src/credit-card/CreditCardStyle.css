@@ -1,0 +1,21 @@
+.c-input {
+    height: 24px;
+    width: 250px;
+    border-color: #504b4b;
+    position: relative;
+}
+
+.error {
+    color: red;
+}
+
+.wrapper {
+    position: relative;
+}
+
+.image {
+    width: 30px;
+    position: absolute;
+    margin-left: -2rem;
+    top: 5px;
+}
